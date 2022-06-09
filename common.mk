@@ -282,8 +282,6 @@ PRODUCT_PACKAGES += \
     android.hardware.nfc_snxxx@1.2-service \
     android.hardware.secure_element@1.2.vendor \
     com.android.nfc_extras \
-    nqnfcinfo \
-    vendor.nxp.hardware.nfc@2.0-service \
     NfcNci \
     Tag
 
